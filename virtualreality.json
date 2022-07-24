@@ -1,0 +1,32 @@
+{
+    "vreality":{
+        "weather": {
+            "state": "Cloudy",
+            "degree": "12"
+        },
+        "calendar": [
+            {"id": 1, "athour": "08.00", "title": "Hangouts", "desc": "Synk up with Mark"},
+            {"id": 2, "athour": "09:30", "title": "World Class", "desc": "Gym"},
+            {"id": 3, "athour": "11:00", "title": "Zoom", "desc": "Design Review"}
+        ],
+        "todo": [
+            {"id": 1, "title": "Shopping"},
+            {"id": 2, "title": "Meeting"}
+        ],
+        "email": {
+            "count": 21,
+            "emails": []
+        },
+        "listening": {
+            "name": "Some Kind Of Blues",
+            "author": "Deftones",
+            "banner": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2370&q=80"
+        },
+        "messages": [
+            {"id": 1, "count": 12, "profilepicture": "team-1.jpg"},
+            {"id": 2, "count": 47, "profilepicture": "team-2.jpg"},
+            {"id": 3, "count": 78754, "profilepicture": "team-3.jpg"},
+            {"id": 4, "count": 99999, "profilepicture": "team-4.jpg"}
+        ]
+    }
+}

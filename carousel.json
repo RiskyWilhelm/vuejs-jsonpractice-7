@@ -1,0 +1,7 @@
+{
+    "carousel": [
+        {"id": "1", "isCurrent": true, "image": "carousel-1.jpg", "icon": "ni-camera-compact", "title": "Get started with Argon", "description": "There’s nothing I really wanted to do in life that I wasn’t able to get good at."},
+        {"id": "2", "image": "carousel-2.jpg", "icon": "ni-bulb-61", "title": "Faster way to create web pages", "description": "That’s my skill. I’m not really specifically talented at anything except for the ability to learn."},
+        {"id": "3", "image": "carousel-3.jpg", "icon": "ni-trophy", "title": "Share with us your design tips!", "description": "Don’t be afraid to be wrong because you can’t learn anything from a compliment."}
+    ]
+}
