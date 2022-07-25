@@ -1,0 +1,52 @@
+{
+    "projectstable": {
+        "Spotify": {
+            "id": "1",
+            "logo": "logo-spotify.svg",
+            "name": "Spotify",
+            "budget": "$2,500",
+            "status": "working",
+            "progress": "60"
+        },
+        "Invision": {
+            "id": "2",
+            "logo": "logo-invision.svg",
+            "name": "Invision",
+            "budget": "$5,000",
+            "status": "done",
+            "progress": "100"
+        },
+        "Jira": {
+            "id": "3",
+            "logo": "logo-jira.svg",
+            "name": "Jira",
+            "budget": "$3,400",
+            "status": "canceled",
+            "progress": "30"
+        },
+        "Slack": {
+            "id": "4",
+            "logo": "logo-slack.svg",
+            "name": "Slack",
+            "budget": "$1,000",
+            "status": "canceled",
+            "progress": "0"
+        },
+        "Webdev": {
+            "id": "4",
+            "logo": "logo-webdev.svg",
+            "name": "Webdev",
+            "budget": "$14,000",
+            "status": "working",
+            "progress": "80"
+        },
+        "Adobe XD": {
+            "id": "4",
+            "logo": "logo-xd.svg",
+            "name": "Adobe XD",
+            "budget": "$2,300",
+            "status": "done",
+            "progress": "100"
+        }
+    }
+}

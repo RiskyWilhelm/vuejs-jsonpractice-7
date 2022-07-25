@@ -1,0 +1,66 @@
+{
+    "table": {
+        "John Michael": {
+            "id": "1",
+            "image": "team-2.jpg",
+            "name": "John Michael",
+            "email": "john@creative-tim.com",
+            "position": "Manager",
+            "positionpart": "Organization",
+            "isOnline": true,
+            "employedat": "23/04/18"
+        },
+        "Alexa Liras": {
+            "id": "2",
+            "image": "team-3.jpg",
+            "name": "Alexa Liras",
+            "email": "alexa@creative-tim.com",
+            "position": "Programator",
+            "positionpart": "Developer",
+            "isOnline": false,
+            "employedat": "11/01/19"
+        },
+        "Laurent Perrier": {
+            "id": "3",
+            "image": "team-4.jpg",
+            "name": "Laurent Perrier",
+            "email": "laurent@creative-tim.com",
+            "position": "Executive",
+            "positionpart": "Projects",
+            "isOnline": true,
+            "employedat": "19/09/17"
+        },
+        "Michael Levi": {
+            "id": "4",
+            "image": "team-3.jpg",
+            "name": "Michael Levi",
+            "email": "michael@creative-tim.com",
+            "position": "Programator",
+            "positionpart": "Developer",
+            "isOnline": true,
+            "employedat": "24/12/08"
+        },
+        "Richard Gran": {
+            "id": "5",
+            "image": "team-2.jpg",
+            "name": "Richard Gran",
+            "email": "richard@creative-tim.com",
+            "position": "Manager",
+            "positionpart": "Executive",
+            "isOnline": false,
+            "employedat": "04/10/21"
+        },
+        "Miriam Eric": {
+            "id": "6",
+            "image": "team-4.jpg",
+            "name": "Miriam Eric",
+            "email": "miriam@creative-tim.com",
+            "position": "Programator",
+            "positionpart": "Developer",
+            "isOnline": false,
+            "employedat": "14/09/20"
+        }
+        
+        
+    }
+}

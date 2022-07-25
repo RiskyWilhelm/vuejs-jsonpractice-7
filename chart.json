@@ -1,0 +1,17 @@
+{
+    "chart": {
+        "title": "Sales overview",
+        "percentage":"4% more",
+        "year": "in 2021",
+        "label": "Mobile Apps",
+        "data": [50,
+                40,
+                300,
+                220,
+                500,
+                250,
+                400,
+                230,
+                500]
+    }
+}

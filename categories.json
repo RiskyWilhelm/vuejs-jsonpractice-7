@@ -1,0 +1,9 @@
+{
+    "cardtitle": "Categories",
+    "categories": [
+        {"id": "1", "icon": "ni-mobile-button", "title": "Devices", "titleDesc": "250 in stock", "titleDesc2": "346+ sold"},
+        {"id": "2", "icon": "ni-tag", "title": "Tickets", "titleDesc": "123 closed", "titleDesc2": "15 open"},
+        {"id": "3", "icon": "ni-box-2", "title": "Error logs", "titleDesc": "1 is active", "titleDesc2": "40 closed"},
+        {"id": "4", "icon": "ni-satisfied", "title": "Happy Users", "titleDesc": "+ 430", "titleDesc2": ""}
+    ]
+}

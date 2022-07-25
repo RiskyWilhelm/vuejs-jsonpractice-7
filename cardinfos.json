@@ -1,0 +1,124 @@
+{
+    "cards": {
+        "master": {
+            "icon": "mastercard.png",
+            "cardno": "4562 1122 4594 7852",
+            "cardowner": "Jack Peterson",
+            "cardexpiresin": "11/22",
+            "salary": {"icon": "text-white fas fa-landmark", "title": "Salary", "description": "Belong Interactive", "price": "+$2000"},
+            "freelancepayment": {"icon": "text-white fab fa-paypal", "title": "Paypal", "description": "Freelance Payment", "price": "$455.00"},
+            "invoices": [
+                {
+                    "date": "March, 01, 2020",
+                    "no": "#MS-415646",
+                    "debt": "180",
+                    "pdf": ""
+                },
+                {
+                    "date": "February, 10, 2021",
+                    "no": "#RV-126749",
+                    "debt": "250",
+                    "pdf": ""
+                },
+                {
+                    "date": "April, 05, 2020",
+                    "no": "#FB-212562",
+                    "debt": "560",
+                    "pdf": ""
+                },
+                {
+                    "date": "June, 25, 2019",
+                    "no": "#QW-103578",
+                    "debt": "120",
+                    "pdf": ""
+                },
+                {
+                    "date": "March, 01, 2019",
+                    "no": "#AR-803481",
+                    "debt": "300",
+                    "pdf": ""
+                }
+
+            ],
+            "transactions": {
+                "newest": [
+                    {
+                        "name": "Netflix",
+                        "date": "27 March 2020, at 12:30 PM",
+                        "ispending": false,
+                        "islost": true,
+                        "price": "2,500"
+                    },
+                    {
+                        "name": "Apple",
+                        "date": "27 March 2020, at 04:30 AM",
+                        "ispending": false,
+                        "islost": false,
+                        "price": "2,000"
+                    }
+                ],
+                "oldest": [
+                    {
+                        "name": "Stripe",
+                        "date": "26 March 2020, at 13:45 PM",
+                        "ispending": false,
+                        "islost": false,
+                        "price": "750"
+                    },
+                    {
+                        "name": "HubSpot",
+                        "date": "26 March 2020, at 12:30 PM",
+                        "ispending": false,
+                        "islost": false,
+                        "price": "1,000"
+                    },
+                    {
+                        "name": "Creative Tim",
+                        "date": "26 March 2020, at 08:30 AM",
+                        "ispending": false,
+                        "islost": false,
+                        "price": "2,500"
+                    },
+                    {
+                        "name": "Webflow",
+                        "date": "26 March 2020, at 05:00 AM",
+                        "ispending": true,
+                        "islost": false,
+                        "price": ""
+                    }
+                ],
+                "betweendate": "23 - 30 March 2020"
+            },
+            "billinginfo": {
+                "oliverliam": {
+                    "name": "Oliver Liam",
+                    "company": "Viking Burrito",
+                    "email": "oliver@burrito.com",
+                    "vatno": "FRB1235476"
+                },
+                "lucasharper": {
+                    "name": "Lucas Harper",
+                    "company": "Stone Tech Zone",
+                    "email": "lucas@stone-tech.com",
+                    "vatno": "FRB1235476"
+                },
+                "ethanjames": {
+                    "name": "Ethan James",
+                    "company": "Fiber Notion",
+                    "email": "ethan@fiber.com",
+                    "vatno": "FRB1235476"
+                }
+            }
+        },
+        "visa": {
+            "icon": "visa.png",
+            "cardno": "1487 8578 2458 5248",
+            "cardowner": "Jack Peterson",
+            "cardexpiresin": "12/22",
+            "salary": {"icon": "text-white fas fa-landmark", "title": "Salary", "description": "Belong Interactive", "price": "+$2000"},
+            "freelancepayment": {"icon": "text-white fab fa-paypal", "title": "Paypal", "description": "Freelance Payment", "price": "$455.00"},
+            "invoices": [],
+            "transactions": []
+        }
+    }
+}

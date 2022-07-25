@@ -1,0 +1,7 @@
+{
+    "notifications": [
+        {"image": "team-2.jpg", "backgroundcolorclass": "", "isusingimage": true, "icon": "", "imagetitle": "user image", "title": "New message", "desc": "from laur", "date": "13", "datetype": "minute"},
+        {"image": "small-logos/logo-spotify.svg", "backgroundcolorclass": "bg-gradient-dark", "isusingimage": true, "icon": "", "imagetitle": "spotify logo", "title": "New album", "desc": "by Travis Scott", "date": "1", "datetype": "day"},
+        {"image": "", "backgroundcolorclass": "bg-gradient-secondary", "isusingimage": false, "icon": "ni-collection", "imagetitle": "payment icon", "title": "Payment Successfully", "desc": "compeleted", "date": "2", "datetype": "day"}
+    ]
+}

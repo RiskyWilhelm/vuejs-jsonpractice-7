@@ -1,0 +1,34 @@
+{
+    "profile": {
+        "picture": "team-1.jpg",
+        "name": "Sayo Kravits",
+        "position": "Public Relations",
+        "userinfo": {
+            "name": "lucky.jesse",
+            "email": "jesse@example.com",
+            "firstname": "Jesse",
+            "lastname": "Lucky"
+        },
+        "contactinfo": {
+            "address": "Bld Mihail Kogalniceanu, nr. 8 Bl 1, Sc 1, Ap 09",
+            "country": "United States",
+            "city": "New York",
+            "postalcode": "437300",
+            "about": "A beautiful Dashboard for Bootstrap 5. It is Free and Open Source."
+        },
+        "suggestedprofile":{
+            "name": "Mark Davis",
+            "age": "35",
+            "profilebanner": "bg-profile.jpg",
+            "profilephoto": "team-2.jpg",
+            "country": "Romania",
+            "city": "Bucharest",
+            "position": "Solution Manager",
+            "positionpart": "Creative Tim Officer",
+            "school": "University of Computer Science",
+            "friendcount": "22",
+            "photocount": "10",
+            "commentcount": "89"
+        }
+    }
+}
